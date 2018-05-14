@@ -43,7 +43,7 @@ body {
 }
 
 .spec-list.mage .spec {
-    background: purple;
+    background: turquoise;
 
 }
 
@@ -57,4 +57,32 @@ body {
 
 .spec-list.deathknight .spec {
     background: red;
+}
+
+.spec-list.rogue .spec {
+    background: yellow;
+}
+
+.spec-list.demonhunter .spec {
+    background: purple;
+}
+
+.spec-list.shaman .spec {
+    background: blue;
+}
+
+.spec-list.hunter .spec {
+    background: green;
+}
+
+.spec-list.monk .spec {
+    background: greenyellow;
+}
+
+.spec-list.paladin .spec {
+    background: pink;
+}
+
+.spec-list.warlock .spec {
+    background: palevioletred;
 }
