@@ -1,0 +1,56 @@
+p {
+    color: blueviolet;
+    font-size: 50px;
+  }
+
+h1, h2 {
+    color: rgb(0, 255, 255)
+
+}  
+
+body {
+    background: plum;
+}
+
+.spec-list {
+    
+    margin-top: 30px;
+    width: 300px;
+}
+
+.spec {
+  
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.spec img {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+
+}
+
+.spec .text {
+    font-weight: bold;
+    display: inline-block;
+}
+
+.spec-list.druid .spec {
+    background: peru;
+
+}
+
+.spec-list.mage .spec {
+    background: turquoise;
+
+}
+
+.spec-list.priest .spec {
+    background: whitesmoke;
+}
+
+.spec-list.warrior .spec {
+    background: tan;
+}
