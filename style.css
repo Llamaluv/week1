@@ -54,3 +54,7 @@ body {
 .spec-list.warrior .spec {
     background: tan;
 }
+
+.spec-list.deathknight .spec {
+    background: red;
+}
